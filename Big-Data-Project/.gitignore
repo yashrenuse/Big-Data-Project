@@ -1,0 +1,13 @@
+.vscode/ 
+*.log 
+*.tmp 
+__pycache__/ 
+*.ipynb_checkpoints/ 
+*.csv 
+AppData/ 
+Desktop/ 
+Documents/ 
+Downloads/ 
+Music/ 
+Videos/ 
+OneDrive/ 
